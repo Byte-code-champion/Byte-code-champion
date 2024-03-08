@@ -1,4 +1,4 @@
-![logo](https://github.com/CodeMakers-Khushi/CodeMakers-Khushi/blob/main/Cover%20Image.png)
+![logo](https://github.com/Byte-code-champion/Byte-code-champion/blob/main/Shubham%20Pandey%20(1).png)
 <h1 align="center">Hi 👋, I'm Pandey Shubham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
